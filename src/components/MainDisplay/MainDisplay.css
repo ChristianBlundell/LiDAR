@@ -1,0 +1,17 @@
+.maindisplay-area {
+  background-color: #000;
+  height: 34vw;
+  width: 60vw;
+
+  margin: 1%;
+}
+
+.yt-video {
+  height: 100%;
+  width: 100%;
+}
+
+.main-video {
+  height: 100%;
+  width: 100%;
+}
