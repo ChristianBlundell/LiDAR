@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/LiDAR/static/css/main.b52fcef4.css",
+    "main.js": "/LiDAR/static/js/main.9ab6dd26.js",
+    "static/js/787.273e136d.chunk.js": "/LiDAR/static/js/787.273e136d.chunk.js",
+    "static/media/complete_view1.mp4": "/LiDAR/static/media/complete_view1.72d96a6fd86aca4bb008.mp4",
+    "static/media/basic_view1.mp4": "/LiDAR/static/media/basic_view1.fb743a041cf1494b455a.mp4",
+    "static/media/basic_view2.mp4": "/LiDAR/static/media/basic_view2.fb743a041cf1494b455a.mp4",
+    "index.html": "/LiDAR/index.html",
+    "main.b52fcef4.css.map": "/LiDAR/static/css/main.b52fcef4.css.map",
+    "main.9ab6dd26.js.map": "/LiDAR/static/js/main.9ab6dd26.js.map",
+    "787.273e136d.chunk.js.map": "/LiDAR/static/js/787.273e136d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52fcef4.css",
+    "static/js/main.9ab6dd26.js"
+  ]
+}
