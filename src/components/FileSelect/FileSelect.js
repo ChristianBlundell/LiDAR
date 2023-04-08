@@ -5,12 +5,9 @@ import { useState } from "react";
 export const FileSelect = (props) => {
   const [activeFile, setActiveFile] = useState("");
   let availableFiles = [
-    "complete_view1",
-    "basic_view1",
-    "complete_view2",
-    "basic_view2",
-    "complete_view3",
-    "basic_view3",
+    "Collection_Video",
+    "Basic_View",
+    "Trajectory_Map"
   ];
 
   const handleSelect = (value) => {
