@@ -7,7 +7,7 @@ export const FileSelect = (props) => {
   let availableFiles = [
     "complete_view1",
     "basic_view1",
-    "complete_view2"
+    "trajectory1"
   ];
 
   const handleSelect = (value) => {
