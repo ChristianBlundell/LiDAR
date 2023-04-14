@@ -10,7 +10,7 @@ export const MainDisplay = (props) => {
     return videos
    }
 
-  const videos = importAll(require.context('../../assets/videos', false, /\.(mp4|jpe?g|svg)$/));
+  const videos = importAll(require.context('../../assets', false, /\.(mp4|jpe?g|svg)$/));
   let currentVideo = videos[`${props.selectedVideo}.mp4`];
 
   return (
